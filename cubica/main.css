@@ -1,0 +1,70 @@
+@font-face {
+    font-family:"Aviny";
+    src: url(font.ttf);
+}
+body{
+    direction: rtl;
+}
+#h4h4{
+    margin-top: 0px;
+    font-family: "Aviny";
+    text-align: center;
+    font-size: 45px;
+}
+#div1{
+    text-align: right;
+    font-family: "Aviny";
+    width: 700px;
+    height: 400px;
+    box-shadow: 10px 10px 30px #888888;
+}
+#pp1{
+    margin: 0px;
+    padding-right: 10px;
+    font-size: 20px;
+    color: rgb(24, 91, 236);
+}
+#div2{
+    height: 47px;
+    background-color: rgba(164, 215, 235, 0.329);
+    border-bottom: 1px solid silver;
+}
+.label1{
+    font-size: 20px;
+    padding-right: 30px;
+}
+.inp{
+    outline: none;
+    font-family: "Aviny";
+    font-size: 20px;
+    width: 89%;
+    height: 25px;
+    padding-right: 10px;
+    margin-right: 30px;
+    border: 1px solid silver;
+    border-radius: 5px;
+}
+.bnt{
+    margin-right: 30px;
+    padding-top: 0px;
+    text-align: center;
+    font-family: "Aviny";
+    font-size: 18px;
+    width: 60px;
+    height: 40px;
+    background-color: rgb(4, 102, 248);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+
+#pp2{
+    padding-right: 10px;
+    font-size: 20px;
+    margin: 0px;
+}
+#div3{
+    margin-top: 45px;
+    padding-top: 2px;
+    border-top: 1px solid silver;
+}
